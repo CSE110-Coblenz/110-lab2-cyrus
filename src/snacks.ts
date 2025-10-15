@@ -4,7 +4,8 @@ const snacks: string[] = [
   "Popcorn",
   "Bar",
   "Banana",
-  "Granola"
+  "Granola",
+  "Reeses"
 ];
 
 export function printSnacks(): void{
