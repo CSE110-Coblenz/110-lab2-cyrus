@@ -6,11 +6,11 @@ const music: string[] = [
   "Hip-hop"
 ];
 
-export function printSnacks(): void{
+export function printMusic(): void{
   console.log("Here are some music ideas:");
   music.forEach((genre, index) => {
     console.log(`${index + 1}. ${genre}`);
   });
 }
 
-printSnacks();
+printMusic();
