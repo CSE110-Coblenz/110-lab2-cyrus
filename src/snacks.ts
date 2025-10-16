@@ -1,10 +1,11 @@
 
-const snacks: string[] = [
+export const snacks: string[] = [
   "Yogurt",
   "Popcorn",
   "Bar",
   "Banana",
-  "Granola"
+  "Granola",
+  "chips"
 ];
 
 export function printSnacks(): void{
