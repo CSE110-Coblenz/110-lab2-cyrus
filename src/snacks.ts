@@ -1,10 +1,11 @@
 
-const snacks: string[] = [
+export const snacks: string[] = [
   "Yogurt",
   "Popcorn",
   "Bar",
   "Banana",
   "Granola",
+  "chips",
   "Reeses"
 ];
 

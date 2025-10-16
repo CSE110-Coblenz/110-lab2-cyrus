@@ -1,5 +1,5 @@
 
-const music: string[] = [
+export const music: string[] = [
   "Rap",
   "Blues",
   "soft Rock",
